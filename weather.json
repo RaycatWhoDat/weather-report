@@ -1,0 +1,101 @@
+{
+  "60618": {
+    "currentTemperature": 67,
+    "high": 70,
+    "low": 56,
+    "dayType": "Partly cloudy",
+    "fiveDayForecast": [
+      {
+        "high": 71,
+        "low": 55,
+        "dayType": "Sunny"
+      },
+      {
+        "high": 46,
+        "low": 44,
+        "dayType": "Partly cloudy"
+      },
+      {
+        "high": 55,
+        "low": 50,
+        "dayType": "Cloudy"
+      },
+      {
+        "high": 80,
+        "low": 61,
+        "dayType": "Rainy"
+      },
+      {
+        "high": 70,
+        "low": 56,
+        "dayType": "Thunderstorms"
+      }
+    ]
+  },
+  "60139": {
+    "currentTemperature": 53,
+    "high": 70,
+    "low": 53,
+    "dayType": "Partly cloudy",
+    "fiveDayForecast": [
+      {
+        "high": 72,
+        "low": 54,
+        "dayType": "Sunny"
+      },
+      {
+        "high": 47,
+        "low": 43,
+        "dayType": "Partly cloudy"
+      },
+      {
+        "high": 54,
+        "low": 49,
+        "dayType": "Cloudy"
+      },
+      {
+        "high": 81,
+        "low": 60,
+        "dayType": "Rainy"
+      },
+      {
+        "high": 69,
+        "low": 55,
+        "dayType": "Thunderstorms"
+      }
+    ]
+  },
+  "60188": {
+    "currentTemperature": 46,
+    "high": 70,
+    "low": 53,
+    "dayType": "Snow",
+    "fiveDayForecast": [
+      {
+        "high": 73,
+        "low": 54,
+        "dayType": "Sunny"
+      },
+      {
+        "high": 47,
+        "low": 42,
+        "dayType": "Snow"
+      },
+      {
+        "high": 54,
+        "low": 50,
+        "dayType": "Cloudy"
+      },
+      {
+        "high": 82,
+        "low": 60,
+        "dayType": "Rainy"
+      },
+      {
+        "high": 72,
+        "low": 53,
+        "dayType": "Thunderstorms"
+      }
+    ]
+  }
+}
